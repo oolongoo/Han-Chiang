@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Basic
 title: Vno Jekyll
 subtitle: A blog-orientation theme for Jekyll
@@ -48,6 +47,3 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
-=======
-theme: jekyll-theme-cayman
->>>>>>> 58a7450a6bcad29dc7182a96a551e4ea497d0c77
